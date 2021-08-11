@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">I graduated from the Computer Science Department of Chengchi University.When I was in college, I most often developed blockchain-related applications like DApps.I love learning new technology and skills.</h3>
+<h3 align="center">I graduated from the Computer Science Department of Chengchi University.When I was in college, I most often developed blockchain-related applications like DApps.I also love learning new technology and skills.</h3>
 
 - 🔭 I’m currently working on **Blockchain audit system**
 
