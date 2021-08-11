@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **roy990427@gmail.com**
 
-- 📄 Know about my experiences [EN:https://www.cakeresume.com/roy990427 CN:https://pda.104.com.tw/profile/share/dfbhG1RC9IqHLP9cqkPNRBabyuNmAk3J](EN:https://www.cakeresume.com/roy990427 CN:https://pda.104.com.tw/profile/share/dfbhG1RC9IqHLP9cqkPNRBabyuNmAk3J)
+- 📄 Know about my experiences [EN:https://www.cakeresume.com/roy990427 CN:https://pda.104.com.tw/profile/share/dfbhG1RC9IqHLP9cqkPNRBabyuNmAk3J]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
