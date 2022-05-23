@@ -9,9 +9,10 @@
 
 - 📫 How to reach me **roy990427@gmail.com**
 
-- 📄 Know about my experiences [
-Resume(EN):https://drive.google.com/file/d/1VOPhmzgQGV9wNMpeie2yJdvz6G4S5wRr/view?usp=sharing  Resume(CN):https://pda.104.com.tw/profile/share/dfbhG1RC9IqHLP9cqkPNRBabyuNmAk3J
-Portfolio:https://drive.google.com/file/d/1sL4OdusPkEbWeeE05AHx2yI8M1VUdz2d/view?usp=sharing]
+- 📄 Know about my experiences 
+- Resume(EN):https://drive.google.com/file/d/1VOPhmzgQGV9wNMpeie2yJdvz6G4S5wRr/view?usp=sharing
+- Resume(CN):https://pda.104.com.tw/profile/share/dfbhG1RC9IqHLP9cqkPNRBabyuNmAk3J
+- Portfolio:https://drive.google.com/file/d/1sL4OdusPkEbWeeE05AHx2yI8M1VUdz2d/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
