@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">I am a software engineer in Taiwan. I graduated from National Chengchi University with bachelor degree in computer science. When I was in school, I joined the blockchain lab, which brought me three years of development and teamwork experience. I am also a creator of NCCU Wallet. A mobile payment based on blockchain technology, which won the first place in the workshop of computer science studies in NCCU. I knows that most people have no confidence in the security of mobile payments. Therefore, NCCU Wallet was born. It creates a safe and reliable trading environment for mobile payments. 
+<h3 align="center">I am a software engineer in Taiwan. I graduated from National Chengchi University with bachelor degree in computer science. When I was in school, I joined the blockchain lab, which brought me three years of development and teamwork experience.  
 In addition, due to my interest in blockchain and finance, I also participated in the internship of Bincentive and Sinopac Holdings. 
 I am a fast learner and a responsible person. Please let me know if you have any questions about me. Thank you for watching.
 </h3>
