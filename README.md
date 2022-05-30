@@ -4,7 +4,7 @@ In addition, due to my interest in blockchain and finance, I also participated i
 I am a fast learner and a responsible person. Please let me know if you have any questions about me. Thank you for watching.
 </h3>
 
-- 🔭 I’m currently working on **Blockchain audit system**
+- 🔭 I’m currently working on [**100Ways-2Hack-Solidity**](https://github.com/roy105703007/100Ways-2Hack-Solidity "100Ways-2Hack-Solidity")
 
 - 🌱 I’m currently learning **Golang**
 
