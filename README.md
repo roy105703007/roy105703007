@@ -13,8 +13,7 @@ I am a fast learner and a responsible person. Please let me know if you have any
 - 📫 How to reach me **roy990427@gmail.com**
 
 - 📄 Know about my experiences 
-  - Resume(EN):https://drive.google.com/file/d/1VOPhmzgQGV9wNMpeie2yJdvz6G4S5wRr/view?usp=sharing
-  - Resume(CN):https://pda.104.com.tw/profile/share/dfbhG1RC9IqHLP9cqkPNRBabyuNmAk3J
+  - Resume:https://drive.google.com/file/d/1VOPhmzgQGV9wNMpeie2yJdvz6G4S5wRr/view?usp=sharing
   - Portfolio:https://drive.google.com/file/d/1sL4OdusPkEbWeeE05AHx2yI8M1VUdz2d/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
