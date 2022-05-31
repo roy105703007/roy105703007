@@ -6,9 +6,9 @@ I am a fast learner and a responsible person. Please let me know if you have any
 
 - 🔭 I’m currently working on [**100Ways-2Hack-Solidity**](https://github.com/roy105703007/100Ways-2Hack-Solidity "100Ways-2Hack-Solidity")
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Smart Contract Security**
 
-- 👯 I’m looking to collaborate on **Blockchain project**
+- 👯 I’m looking to collaborate on **Blockchain Project**
 
 - 📫 How to reach me **roy990427@gmail.com**
 
