@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">I am a software engineer in Taiwan. I graduated from National Chengchi University with bachelor degree in computer science. When I was in school, I joined the blockchain lab, which brought me three years of development and teamwork experience.  
-In addition, due to my interest in blockchain and finance, I also participated in the internship of Bincentive and Sinopac Holdings. 
-I am a fast learner and a responsible person. Please let me know if you have any questions about me. Thank you for watching.
 </h3>
 
 - 🔭 I’m currently working on [**100Ways-2Hack-Solidity**](https://github.com/roy105703007/100Ways-2Hack-Solidity "100Ways-2Hack-Solidity")
