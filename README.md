@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [**100Ways-2Hack-Solidity**](https://github.com/roy105703007/100Ways-2Hack-Solidity "100Ways-2Hack-Solidity")
 
-- 🌱 I’m currently learning **Smart Contract Security**
+- 🌱 I’m currently learning **Golang and Smart Contract Security**
 
 - 👯 I’m looking to collaborate on **Blockchain Project**
 
