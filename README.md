@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">I am a software engineer in Taiwan. 
-  I study blockchain since 2017, and I also have three years of experience developing blockchain 
+  I study blockchain since 2017, and I also have three years of experience developing blockchain. 
   Keeping up with latest hacks is my short term goal.
   My long-term goal is to create products that contribute to society and the planet.
   I believe I can do it. 💪
