@@ -7,16 +7,8 @@
   
 </h3>
 
-- 🔭 I’m currently working on [**100Ways-2Hack-Solidity**](https://github.com/roy105703007/100Ways-2Hack-Solidity "100Ways-2Hack-Solidity")
-
-- 🌱 I’m currently learning **Golang and Smart Contract Security**
-
-- 👯 I’m looking to collaborate on **Blockchain Project**
-
-- 📫 How to reach me **roy990427@gmail.com**
-
 - 📄 Know about my experiences 
-  - Resume:https://drive.google.com/file/d/1VOPhmzgQGV9wNMpeie2yJdvz6G4S5wRr/view?usp=sharing
+  - Resume:[https://drive.google.com/file/d/1VOPhmzgQGV9wNMpeie2yJdvz6G4S5wRr/view?usp=sharing](https://docs.google.com/document/d/15cnej7Eou05Tj5HlLcMG6GFSYD-2wfrgoMIqZNLIZJk/edit?usp=sharing)
   - Portfolio:https://drive.google.com/file/d/1sL4OdusPkEbWeeE05AHx2yI8M1VUdz2d/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
