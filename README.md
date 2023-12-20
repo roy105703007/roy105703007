@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">I am a software engineer in Taiwan. 
-  I have been studying blockchain since 2017, and I also have five years of experience developing blockchain. 
-  Keeping up with latest hacks is my short term goal.
-  My long-term goal is to create products that contribute to society and the planet.
-  I believe I can do it. 💪
+<h3 align="center">I'm a blockchain developer with a focus on smart contracts, diving into the field since 2017. My experience spans mobile app and backend development, highlighted by winning awards from Polygon at EthGlobal Tokyo and Ethereum Foundation at EthTaipei."
   
 </h3>
 
