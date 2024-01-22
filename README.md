@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">I'm a blockchain developer with a focus on smart contracts, diving into the field since 2017. My experience spans mobile app and backend development, highlighted by winning awards from Polygon at EthGlobal Tokyo and Ethereum Foundation at EthTaipei."
+<h3 align="center">I'm a blockchain developer with a focus on smart contracts, diving into the field since 2017. My experience spans mobile app and backend development, highlighted by winning awards from Polygon at EthGlobal Tokyo and Ethereum Foundation at EthTaipei.
   
 </h3>
 
